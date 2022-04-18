@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @imlokie
-- 👀 I’m interested in full stack development and automation;
-- 🌱 I’m currently learning React and co. ..
-- 💞️ I’m looking to collaborate on anything that is fun (:
-- 📫 How to reach me ... lkumarchahar@gmail.com
+- 🌱 currently learning PHP,React.
+- 🏠 ... lkumarchahar@gmail.com
